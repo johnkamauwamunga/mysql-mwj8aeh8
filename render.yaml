@@ -24,7 +24,7 @@ envVarGroups:
         value: ali_user
 
       - key: MYSQL_PASSWORD
-        generateValue: true
+        value: "Alis@12345"
 
       - key: MYSQL_ROOT_PASSWORD
         generateValue: true
